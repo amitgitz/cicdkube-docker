@@ -80,7 +80,7 @@
    - Installation of Helm
      	- ```cd /tmp/```
      	- ``` wget https://get.helm.sh/helm-v3.12.1-linux-amd64.tar.gz 	```
-     	- ``` tar xzvf helm-v3.12.1-linux-amd64.tar.gz ````
+     	- ``` tar xzvf helm-v3.12.1-linux-amd64.tar.gz ```
      	- ```cd linux-amd64/```
      	- ```sudo mv helm /usr/local/bin/helm```
     Now your Helm has been installed
